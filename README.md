@@ -7,5 +7,3 @@ Here I am calculating the root mean square error (RMSE). This way you can use th
 The learning curve displays the error function (MSE) with different amounts of data used for training. File1.png.
 It is often very useful in machine learning to have a confidence interval around the scores. 
 There are various ways to do this, but one fairly common method is to use bootstrap. File2.png.
-
-wellnetstudio@gmail.com
